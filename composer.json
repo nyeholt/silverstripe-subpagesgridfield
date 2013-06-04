@@ -1,0 +1,10 @@
+{
+	"name": "sheadawson/subpages-gridfield",
+	"description": "Provides 2 grid field components for editing and adding Page objects from a gridfield. Useful for gridfield managed subpages.",
+	"require": {
+		"php": ">=5.3.2",
+		"silverstripe/cms": "3.0.*",
+		"silverstripe/framework": "3.0.*"
+	},
+	"minimum-stability": "dev"
+}
